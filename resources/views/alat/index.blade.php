@@ -5,7 +5,7 @@
 
 @section('konten')
 
-    <h2>Daftar Alat</h2>
+    <h2>Daftar Alat Multimedia</h2>
 
     @if (session('sukses'))
         <p style="color:green">{{ session('sukses') }}</p>
